@@ -38,13 +38,10 @@ career_mentor_agent/
 ├── runner/
 │ └── agent_runner.py # Agent manager and handoff logic
 │
-├── tools/
-│ └── roadmap_tool.py # Custom roadmap generator tool
+├── tools.py # Custom roadmap generator tool
 │
 ├── chainlit_app.py # Main Chainlit UI app
-├── .env # API key (not shared)
-├── .env.example # Sample .env file
-└── README.md # This file
+├── .env # API key 
 
 ```
 
