@@ -58,13 +58,16 @@ career_mentor_agent/
    ```
 
 2. **Create .env file & Add OpenRouter API key**
-
+  ```bash
 OPENROUTER_API_KEY=your_api_key_here
 
-3. **Run the app**
+```
 
+3. **Run the app**
+  ```bash
 chainlit run chainlit_app.py
 
+```
 ---
 
 ## ⚙️ Tech Stack
